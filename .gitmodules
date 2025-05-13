@@ -1,0 +1,3 @@
+[submodule "src/LF1-Auth-Service"]
+	path = src/LF1-Auth-Service
+	url = https://github.com/laksirib76/LF1-Auth-Service.git
